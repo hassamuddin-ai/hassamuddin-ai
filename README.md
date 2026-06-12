@@ -97,13 +97,19 @@ AI-powered study assistant featuring:
 
 ---
 
-## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/hassam-malik-a14278361/">
+<img src="https://img.shields.io/badge/LinkedIn-Hassam_Malik-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-📧 Email: your-email@example.com
+<a href="mailto:hassamuddin231@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
+</a>
 
-💼 LinkedIn: your-linkedin-url
-
-🐙 GitHub: https://github.com/hassamuddin-ai
+<a href="https://github.com/hassamuddin-ai">
+<img src="https://img.shields.io/badge/GitHub-hassamuddin--ai-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
